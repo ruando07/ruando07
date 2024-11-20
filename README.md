@@ -44,15 +44,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
-
----
-
-
-
----
 
 <!---
 ruando07/ruando07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

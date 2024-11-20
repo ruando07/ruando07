@@ -1,30 +1,12 @@
 - 👋 Hi, I’m @ruando07
-- 👀 I’m interested in Fantasy histories
-- 🌱 I’m currently learning International comerce and logistics
-- 💞️ I’m looking to collaborate on Fullstack proyects
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-const devKaliper = {
-        name: "Ruando Deane",
-        country: "Panamá",
-        age: 26,
-        skills: [JavaScript, Git, React, NodeJS, C++],
-        hobbies: [Basketball, Read, Music, Run, Swim, Learn],
-        code : function () {
-            console.log("HI!")
-        }
-}
 
-while (devKaliper.alive){
-        devKaliper.code();
-}
-### Hey Sourav here 👋
+### Hey Ruando here 👋
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="![WhatsApp Image 2024-11-19 at 8 16 12 PM](https://github.com/user-attachments/assets/ca5e8199-e225-4d6c-acf3-8c02e65d3957)
+" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:

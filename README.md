@@ -5,8 +5,7 @@
 ---
 
 <p align="center">
-  <img src="![WhatsApp Image 2024-11-19 at 8 16 12 PM](https://github.com/user-attachments/assets/ca5e8199-e225-4d6c-acf3-8c02e65d3957)
-" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQEkhElSu8hXcw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1732067359989?e=1737590400&v=beta&t=Qxus0biGXb4ERFW4BKyFoC2CroSVsAZzogra7q6cxAg" width="15%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
